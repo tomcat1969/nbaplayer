@@ -1,8 +1,13 @@
 .main{
     width: 750px;
+
+    margin: auto;
+
+
+}
+.player {
     border: 3px solid #ccc;
     border-radius: 10px;
     box-shadow: 5px 10px 10px #888;
-    margin: auto;
-
+    display: flex;
 }

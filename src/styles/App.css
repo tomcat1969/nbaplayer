@@ -1,6 +1,9 @@
+@import '~antd/dist/antd.css';
 @import "TopNavBar.css";
 @import "Main.css";
 @import "Profile.css";
+@import "ShotChart.css";
+@import "DataViewContainer.css";
 .App {
   text-align: center;
 }
